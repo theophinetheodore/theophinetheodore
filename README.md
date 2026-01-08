@@ -1,4 +1,4 @@
-migrating to [codeberg](https://codeberg.org/theophinetheodore).
+moved to [codeberg](https://codeberg.org/theophinetheodore).
 
 ---
 
